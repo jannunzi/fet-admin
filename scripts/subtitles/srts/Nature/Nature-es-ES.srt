@@ -1,0 +1,31 @@
+1
+0:0:4,010 --> 0:0:5,230
+Ha llegado la hora de comer.
+
+2
+0:0:8,020 --> 0:0:17,060
+El oso pardo va por bayas, fruta o frutos secos, pero no se puede comparar con lo que ofrece el río.
+
+3
+0:0:19,180 --> 0:0:21,150
+Los oseznos no ayudan.
+
+4
+0:0:24,110 --> 0:0:27,210
+En la paternidad y en la pesca, la paciencia lo es todo.
+
+5
+0:0:29,090 --> 0:0:32,020
+Y, cuando puedes dormir un rato, lo aprovechas.
+
+6
+0:0:33,080 --> 0:0:41,190
+Durante el otoño, este gigante omnívoro ingerirá unos 40 kilos de salmón al día para duplicar su peso antes de hibernar.
+
+7
+0:0:44,090 --> 0:0:45,000
+Te pillé.
+
+8
+0:0:45,040 --> 0:0:46,120
+Ya solo faltan 36 kilos.

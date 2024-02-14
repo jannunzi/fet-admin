@@ -1,0 +1,63 @@
+﻿1
+00:00:00,416 --> 00:00:05,541
+Depuis des années, Sonos est une véritable référence
+dans l’univers du son multiroom.
+
+2
+00:00:06,583 --> 00:00:08,291
+Aujourd'hui, l'expérience se fait plus intimiste.
+
+3
+00:00:08,875 --> 00:00:11,166
+Découvrez le Sonos Ace.
+
+4
+00:00:13,291 --> 00:00:20,166
+Conçu avec un soin infini, 
+ce casque audio vous immerge dans un son ultra haute fidélité.
+
+5
+00:00:22,625 --> 00:00:32,500
+Grâce à sa clarté exceptionnelle et ses basses puissantes, 
+chaque note gagne en profondeur.
+
+6
+00:00:32,583 --> 00:00:47,583
+L'audio spatial avec suivi dynamique des mouvements de la tête enrichit votre expérience d'écoute en plaçant précisément les sons à gauche, à droite, au-dessus et tout autour de vous.
+
+7
+00:00:48,000 --> 00:00:53,833
+La fonction Réduction active du bruit neutralise 
+les sons ambiants pour une immersion sonore totale.
+
+8
+00:00:53,916 --> 00:00:57,958
+Si vous avez besoin d'entendre ce qui se passe 
+autour de vous, activez le mode Aware.
+
+9
+00:01:00,125 --> 00:01:05,250
+Utilisez la touche Contenus pour régler le volume, 
+contrôler la lecture et décrocher lors des appels.
+
+10
+00:01:05,333 --> 00:01:06,458
+<i>Hé, quoi de neuf?</i>
+
+11
+00:01:07,333 --> 00:01:13,375
+À la maison, transférez le son de la TV vers le Sonos Ace 
+pour profiter d'une expérience surround sans déranger vos proches.
+
+12
+00:01:13,875 --> 00:01:16,875
+*Nécessite une barre de son Sonos compatible
+
+13
+00:01:17,458 --> 00:01:24,958
+Trente heures d'autonomie, un confort incomparable, 
+et une connectivité complète avec tous vos appareils.
+
+14
+00:01:25,208 --> 00:01:28,583
+Votre expérience d'écoute sublimée
